@@ -6,7 +6,7 @@ export default {
     description: 'API for managing directors and movies with authentication'
   },
   servers: [
-    { url: 'http://localhost:3000', description: 'Local server' },
+    
     { url: 'https://cse341-w03-w04-movies-api.onrender.com', description: 'Render server' }
   ],
   components: {
